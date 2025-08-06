@@ -3,6 +3,11 @@ This project implements a 4-stage pipelined ALU (Arithmetic Logic Unit) in Veril
 
 This project demonstrates a **4-stage pipelined ALU** (Arithmetic Logic Unit) implemented in **Verilog** using **non-overlapping two-phase clocks**. It showcases key digital design principles such as pipelining, clock domain separation, and ALU operation modeling. Perfect for academic labs in VLSI or computer architecture courses.
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![Status](https://img.shields.io/badge/status-Simulation--Ready-green)
+![Language](https://img.shields.io/badge/language-Verilog-orange)
+![Clocking](https://img.shields.io/badge/clocking-Two--Phase-blueviolet)
+
 ## ⚙️ Features
 
 - 🔀 **4-stage pipeline** with clean data flow and register hand-off  
