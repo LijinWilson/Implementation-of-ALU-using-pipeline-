@@ -118,5 +118,10 @@ This project is open-source and free to use for academic and educational purpose
 
 ✅ Verilog testbench and simulation
 
+📤 Simulation Result 
+<img width="1554" height="812" alt="image" src="https://github.com/user-attachments/assets/d4ca703a-c899-4972-8f84-827aa05dbf22" />
+
+
+
 
 
