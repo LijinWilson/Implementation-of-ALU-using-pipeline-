@@ -46,20 +46,33 @@ Final memory dump for validation
 
 🧠 ALU Operation Codes (func input)
 Code	Operation
-0:	A + B
+
+0:	A + B.
+
 1:	A - B
+
 2:	A * B
+
 3:	A
+
 4:	B
+
 5:	A & B
+
 6:	A | B
+
 7:	A ^ B
+
 8:	~A
+
 9:	~B
+
 10:	A >> 1
+
 11:	A << 1
 
-🧪 How to Run
+🧪 How to Run.
+
 Open the files in a Verilog simulator like ModelSim, Vivado, Icarus Verilog, or EdaPlayground.
 
 Compile both files:
